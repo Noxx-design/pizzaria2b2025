@@ -37,6 +37,9 @@ function App(){
       <Formulario titulo = "E-mail" mensagen = "Nos vamos presisar do seu E-mail"/>
       <Formulario titulo = "CPF" mensagen = "Nos vamos presisar do seu CPF"/>
       <Formulario titulo = "Telefone" mensagen = "Nos vamos presisar do seu Telefone"/>
+      <Formulario />
+      <Formulario />
+      <Formulario />
     </div>
   )
 }
